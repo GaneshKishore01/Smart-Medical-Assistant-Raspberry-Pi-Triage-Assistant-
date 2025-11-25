@@ -1,14 +1,15 @@
 # raspberry-pi-triage
 A Raspberry Pi 5–based triage assistant with LCD display .   Classifies patients into categories (Red/Yellow/Green) for emergency response.   Designed for **offline, low-resource healthcare settings**.
-# Compact Medical Triage Device (Prototype)
+# Compact Medical Triage Device
 
 ## Overview
+https://github.com/GaneshKishore01/raspberry-pi-triage/blob/main/Triage%20color%20system.jpg
 A Raspberry Pi 5–based medical triage assistant with a 3.5-inch LCD display.  
 The system uses a lightweight LLM (Phi-3 Qt) to classify patients into categories:
 - 🔴 Red (immediate urgency)  
 - 🟡 Yellow (moderate urgency)  
 - 🟢 Green (low urgency)
-
+![Image Alt](https://github.com/GaneshKishore01/raspberry-pi-triage/blob/main/Triage%20color%20system.jpg)
 Designed for **offline, low-resource healthcare settings**.
 
 ## Features
