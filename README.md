@@ -51,7 +51,7 @@ Note: This is for informational purposes only and is not a substitute for profes
 
 ## Results
 ✅ Functional prototype tested with simulated patient data  
-⚠️ Limitations: ~2.5 tokens/sec inference speed, overheating → required active cooling  
+⚠️ Limitations: ~2.5 tokens/sec inference speed, overheating → required active cooling with fan module
 
 ## Future Directions
 - Hardware optimization for faster inference  
